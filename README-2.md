@@ -1,4 +1,4 @@
-Project Template
+Spark Project: Sparkify
 
 Project Template include three files:
 
